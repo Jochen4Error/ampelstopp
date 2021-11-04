@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.085129mm"
+   height="19.695768mm"
+   viewBox="0 0 16.085129 19.695768"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/nn/Dokumente/Projekte/Ampel1/icon.png"
+   inkscape:export-xdpi="327.56274"
+   inkscape:export-ydpi="327.56274">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6120214"
+     inkscape:cx="-45.904619"
+     inkscape:cy="14.267801"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(87.917395,-34.53155)">
+    <g
+       id="g277">
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-88.749539,37.283443)"
+         id="g246">
+        <g
+           id="color-3">
+          <circle
+             style="fill:#fcea2b"
+             cx="35.904701"
+             cy="36.013802"
+             r="27.0345"
+             id="circle199" />
+          <circle
+             style="fill:#ffffff"
+             cx="36.005798"
+             cy="36.0369"
+             r="21.870899"
+             id="circle201" />
+        </g>
+        <g
+           id="line-6">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             inkscape:connector-curvature="0"
+             d="M 55.1092,25.38 A 21.8626,21.8626 0 1 1 47.0154,17.1349"
+             id="path204" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             inkscape:connector-curvature="0"
+             d="M 62.9392,35.9973 A 27.0463,27.0463 0 1 1 57.6742,19.9591"
+             id="path206" />
+          <polyline
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             points="47.394 21.578 58.432 20.418 57.272 9.38"
+             id="polyline208" />
+          <polyline
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             points="49.975 36.354 35.987 36.354 35.891 36.354 35.891 18.52"
+             id="polyline210" />
+          <line
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             x1="35.890598"
+             x2="35.890598"
+             y1="53.910599"
+             y2="50.066101"
+             id="line212" />
+          <polyline
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             points="21.143 36.354 18.086 36.354 18.086 36.354"
+             id="polyline214" />
+          <circle
+             cx="35.890598"
+             cy="36.353802"
+             r="3.7370999"
+             id="circle216" />
+          <circle
+             cx="48.693802"
+             cy="47.937099"
+             r="1.4802001"
+             id="circle218" />
+          <circle
+             cx="23.087299"
+             cy="24.717199"
+             r="1.4802001"
+             id="circle220" />
+          <circle
+             cx="23.087299"
+             cy="47.937099"
+             r="1.4802001"
+             id="circle222" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-94.267395,32.414883)"
+         id="g117">
+        <g
+           id="color">
+          <path
+             style="fill:#d0cfce;stroke:none"
+             inkscape:connector-curvature="0"
+             d="m 47,15.82 v 36 c 0,3.85 -3.15,7 -7,7 h -8 c -3.85,0 -7,-3.15 -7,-7 v -36 c 0,-3.85 3.15,-7 7,-7 h 8 c 3.85,0 7,3.15 7,7 z"
+             id="path76" />
+          <circle
+             style="fill:#b1cc33;stroke:none"
+             cx="36"
+             cy="48.292301"
+             r="5"
+             id="circle78" />
+          <circle
+             style="fill:#f4aa41;stroke:none"
+             cx="36"
+             cy="34.292301"
+             r="5"
+             id="circle80" />
+          <circle
+             style="fill:#ea5a47;stroke:none"
+             cx="36"
+             cy="19.292299"
+             r="5"
+             id="circle82" />
+        </g>
+        <g
+           id="hair" />
+        <g
+           id="skin" />
+        <g
+           id="skin-shadow" />
+        <g
+           id="line">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             inkscape:connector-curvature="0"
+             stroke-miterlimit="10"
+             d="m 47,16 v 36 c 0,3.85 -3.15,7 -7,7 h -8 c -3.85,0 -7,-3.15 -7,-7 V 16 c 0,-3.85 3.15,-7 7,-7 h 8 c 3.85,0 7,3.15 7,7 z"
+             id="path88" />
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             cx="36"
+             cy="48.472301"
+             r="5"
+             stroke-miterlimit="10"
+             id="circle90" />
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             cx="36"
+             cy="34.472301"
+             r="5"
+             stroke-miterlimit="10"
+             id="circle92" />
+          <circle
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+             cx="36"
+             cy="19.4723"
+             r="5"
+             stroke-miterlimit="10"
+             id="circle94" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
